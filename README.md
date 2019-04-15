@@ -12,5 +12,4 @@ In the Spring of 2019, I am working on an empirical paper that is exploring the 
 Metro Area. I am building a model that is using the 2010/2011 Regional Household Survey (Cross Sectional Dataset)
 to estimate the factors that lead to households choosing to own {0, 1, 2, 3+} vehicles. I have recently learned about the beauty of Jupyter notebooks and the ability of displaying all of my work of the paper here on Github. I will continue to revisit this in the future.
 
-
-
+This semester I have really learned about how important Data Exploration is for data analysis. It is tempting to rush into data modeling and get results but being able to understand your data at a deeper level is valuable. It allows for the construction of a more robust model.
