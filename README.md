@@ -18,6 +18,9 @@ This semester I have really learned about how important Data Exploration is for 
 
 # Progress
 
+
 The current version of this paper is 0.1. 
 To view a PDF of the in-progress research click the link below.
+
+
 [Household Vehicle Ownership in the New York Metropolitan Area](./Robert_Checco_Capstone_Project.pdf)
