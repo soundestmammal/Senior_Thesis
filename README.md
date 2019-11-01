@@ -15,8 +15,8 @@ to estimate the factors that lead to households choosing to own {0, 1, 2, 3+} ve
 ### Progress
 
 
-The current version of this paper is 0.1. 
+The current version of this paper is 0.2
 To view a PDF of the in-progress research click the link below.
 
 
-[Household Vehicle Ownership in the New York Metropolitan Area](./Robert_Checco_Capstone_Project.pdf)
+[Household Vehicle Ownership in the New York Metropolitan Area](./Capstone_Project_Version_0-2.pdf)
