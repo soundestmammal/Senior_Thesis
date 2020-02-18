@@ -1,11 +1,11 @@
 ### Background
 
 
-As a student of the Department of Applied Economics, I completed three research papers. All papers provide the reader a review of the existing literature, the souce of the data, and justification for the econometric specification used for modeling.
+As a student of the Department of Applied Economics, I completed three research papers. All papers provide the reader a review of the existing literature, the source of the data, and justification for the econometric specification used for modeling.
 
 My Spring 2018 paper uses a hedonic pricing model to examine commercial real estate prices in Brooklyn, NY. The model seeks to quantify the relationship between sale price and distance to subway stations.
 
-During Fall 2018 I built a transportation demand model using Logistic Regression and Neural Networks. Using data from the Regional Household Travel Survey (2010/2011) I analyzed Long Island households travel mode choice to their place of employment. 
+During Fall 2018 I built a transportation demand model using Logistic Regression and Neural Networks. Using data from the Regional Household Travel Survey (2010/2011) I analyzed Long Island households travel mode choice to their place of employment.
 
 In the Spring of 2019, I am working on an empirical paper that is exploring the determinants of vehicle ownership in the NY 
 Metro Area. I am building a model that is using the 2010/2011 Regional Household Survey (Cross Sectional Dataset)
